@@ -18,6 +18,9 @@
   "homepage": "https://github.com/LeaFuryk/tablet-project#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "request": "^2.88.0"
+    "guid": "0.0.12",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.0",
+    "sha256": "^0.2.0"
   }
 }
